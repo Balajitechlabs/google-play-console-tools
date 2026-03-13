@@ -14,7 +14,7 @@ Generate app icons, validate screenshots, and fix aspect ratios — all from the
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/yourusername/google-play-console-tools.git
+git clone https://github.com/Balajitechlabs/google-play-console-tools.git
 cd google-play-console-tools
 pip install -r requirements.txt
 
@@ -94,7 +94,7 @@ python src/screenshot_converter.py bad-screenshot.png convert-16:9
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/google-play-console-tools.git
+git clone https://github.com/Balajitechlabs/google-play-console-tools.git
 cd google-play-console-tools
 
 # Install dependencies
@@ -348,7 +348,7 @@ Free to use, modify, and distribute for any purpose.
 Created by **Balaji - Full Stack Developer**
 
 - Portfolio: [https://tech.balajitechlab.com/](https://tech.balajitechlab.com/)
-- GitHub: [@balaji](https://github.com/yourusername)
+- GitHub: [@Balajitechlabs](https://github.com/Balajitechlabs)
 
 ---
 

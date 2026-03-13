@@ -121,5 +121,5 @@ See [CONTRIBUTORS.md](CONTRIBUTORS.md) for full list.
 
 ---
 
-[Unreleased]: https://github.com/yourusername/google-play-console-tools/compare/v1.0.0...develop
-[1.0.0]: https://github.com/yourusername/google-play-console-tools/releases/tag/v1.0.0
+[Unreleased]: https://github.com/Balajitechlabs/google-play-console-tools/compare/v1.0.0...develop
+[1.0.0]: https://github.com/Balajitechlabs/google-play-console-tools/releases/tag/v1.0.0

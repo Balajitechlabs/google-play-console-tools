@@ -139,7 +139,7 @@ git commit -m "Initial commit: Complete Google Play Console tools suite"
 git branch -M main
 
 # Add remote (replace with your repo URL)
-git remote add origin https://github.com/yourusername/google-play-console-tools.git
+git remote add origin https://github.com/Balajitechlabs/google-play-console-tools.git
 
 # Push to GitHub
 git push -u origin main
@@ -235,7 +235,7 @@ Your Google Play Console Tools project is:
 
 ### Clone and Install (for users)
 ```bash
-git clone https://github.com/yourusername/google-play-console-tools.git
+git clone https://github.com/Balajitechlabs/google-play-console-tools.git
 cd google-play-console-tools
 pip install -r requirements.txt
 python src/icon_generator.py app-icon.png
@@ -248,7 +248,7 @@ git init
 git add .
 git commit -m "Initial commit: Complete Google Play Console tools"
 git branch -M main
-git remote add origin https://github.com/yourusername/google-play-console-tools.git
+git remote add origin https://github.com/Balajitechlabs/google-play-console-tools.git
 git push -u origin main
 ```
 

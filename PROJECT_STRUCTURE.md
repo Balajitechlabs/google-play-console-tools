@@ -130,7 +130,7 @@ Example files and test cases:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/google-play-console-tools.git
+git clone https://github.com/Balajitechlabs/google-play-console-tools.git
 cd google-play-console-tools
 
 # Install dependencies

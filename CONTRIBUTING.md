@@ -61,7 +61,7 @@ Environment:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/google-play-console-tools.git
+git clone https://github.com/Balajitechlabs/google-play-console-tools.git
 cd google-play-console-tools
 
 # Create virtual environment
