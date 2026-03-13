@@ -7,6 +7,7 @@ Generate app icons, validate screenshots, and fix aspect ratios — all from the
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
+![FMHY](https://img.shields.io/badge/Listed-FMHY-orange)
 
 ---
 
@@ -332,6 +333,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - [Icon Requirements](https://support.google.com/googleplay/android-developer/answer/1078870) — Official specs
 - [Screenshot Guidelines](https://support.google.com/googleplay/android-developer/answer/1233393) — Official guide
 - [Pillow Docs](https://pillow.readthedocs.io/) — Image processing library
+- [Listed on FMHY](https://github.com/fmhy/FMHY/issues/103) — Free Media HyperYeah community
+- [FMHY Submission Details](FMHY_SUBMISSION.md) — Community listing documentation
 
 ---
 
