@@ -350,7 +350,7 @@ Free to use, modify, and distribute for any purpose.
 
 Created by **Balaji - Full Stack Developer**
 
-- Portfolio: [https://tech.balajitechlab.com/](https://tech.balajitechlab.com/)
+- Portfolio: [https://portfolio.balajitechlab.com/](https://portfolio.balajitechlab.com/)
 - GitHub: [@Balajitechlabs](https://github.com/Balajitechlabs)
 
 ---
