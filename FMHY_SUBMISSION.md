@@ -69,5 +69,5 @@ FMHY has 11k+ stars and a large community, so this will significantly increase v
 ---
 
 **Submitted by:** Balajitechlabs  
-**Portfolio:** https://tech.balajitechlab.com/  
-**Email:** admin@tech.balajitechlab.com
+**Portfolio:** https://portfolio.balajitechlab.com/  
+**Email:**balajitechlab@gmail.com
